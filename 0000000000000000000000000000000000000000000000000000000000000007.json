@@ -1,0 +1,36 @@
+
+    {
+      "name": "Cryptorocks NFT",
+      "description": "3333 cryptorocks as tickets to participate in decentralized lottery",
+      "background_color": "cccccc",
+      "image": "https://pin.ski/36qet4i",
+      "animation_url": "https://pin.ski/34Lw9ac",
+      "external_url": "https://cryptorocks.store/",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "BackgroundSunrise"
+        },
+        {
+          "trait_type": "Body2",
+          "value": "Turtle3"
+        },
+        {
+          "trait_type": "Cloth",
+          "value": "Body two redyellow"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Hat five blue"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Mouth one blue"
+        },
+        {
+          "trait_type": "Eyez",
+          "value": "Pirate Eyez"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    }
